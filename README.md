@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishtiaq Dishan
 - 👀 I’m interested in Web development, Learning Low Level
-- 🌱 I’m currently learning Flask, C, SQL
+- 🌱 I’m currently learning Django, C, SQL
 - 📫 How to reach me? use my email to contact me. 
 - ⚡ Fun fact: I am a good team player.
 
