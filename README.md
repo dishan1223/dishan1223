@@ -3,19 +3,20 @@
 ## 👋 Hello, I’m **Ishtiaq Dishan!**  
 
 🚀 **What I’m Working On:**  
-Currently building **[TimeJump](https://github.com/dishan1223/TimeJump)** – a platform for movies and blogging enthusiasts.  
+Currently building **[TimeJump](github.com/dishan1223/TimeJump)** – a platform for movies and blogging enthusiasts.  
 
 💻 **What I’m Passionate About:**  
-Creating sleek and functional web applications and diving deep into the world of **Low-Level Programming**.  
+Designing and developing modern, user-friendly web applications.  
 
 📚 **What I’m Learning:**  
-Exploring the depths of `C`, sharpening my skills in `JavaScript`, and mastering the art of database management with `SQL`.  
+Expanding my skills with `React`, `JavaScript`, and exploring the backend with a bit of `Django`.  
 
 📩 **How to Reach Me:**  
 I’d love to connect! Drop me an email anytime.  
 
 ⚡ **Fun Fact:**  
-I thrive in **team environments**, brainstorming creative ideas, and turning them into reality!  
+I’m a **team player** who enjoys turning ideas into reality through collaboration and creativity!  
+
 
 
 ## 🌐 Socials:
