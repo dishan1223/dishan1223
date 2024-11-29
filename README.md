@@ -3,7 +3,7 @@
 ## 👋 Hello, I’m **Ishtiaq Dishan!**  
 
 🚀 **What I’m Working On:**  
-Currently building **[TimeJump](github.com/dishan1223/TimeJump)** – a platform for movies and blogging enthusiasts.  
+Currently building **[TimeJump](https://github.com/dishan1223/TimeJump)** – a platform for movies and blogging enthusiasts.  
 
 💻 **What I’m Passionate About:**  
 Designing and developing modern, user-friendly web applications.  
