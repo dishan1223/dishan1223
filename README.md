@@ -1,38 +1,57 @@
-# 💫 About Me
+# 🧗‍♂️Ishtiaq Dishan
 
-## 👋 Hello, I’m **Ishtiaq Dishan!**  
+**`Digital Craftsman (Developer/Designer)`**
 
-🚀 **What I’m Working On:**  
-Currently building **[CodeName-A](https://github.com/dishan1223/TimeJump)** – a platform for movies and blogging enthusiasts.  
+I’m a web developer and UI designer, building my version of the digital world step by step. My curiosity for computers led me to web development—a turning point that transformed ideas into reality.
 
-💻 **What I’m Passionate About:**  
-Designing and developing modern, user-friendly web applications.  
+The journey wasn’t easy. I faced challenges, struggled through errors, and kept pushing forward. But with every hurdle, I learned, improved, and refined my craft. Over time, I didn’t just become a developer—I became a problem solver, a creator, and a craftsman.
 
-📚 **What I’m Learning:**  
-Expanding my skills with `React`, `JavaScript`, `ExpressJS`, `sqlite3`.  
-
-📩 **How to Reach Me:**  
-I’d love to connect! Drop me an email anytime.  
-
-⚡ **Fun Fact:**  
-I’m a **team player** who enjoys turning ideas into reality through collaboration and creativity!  
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ishtiaq.dishan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___ishtiaqdishan___/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vortex64bit) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dishan1223&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dishan1223&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dishan1223&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+For me, coding is more than writing logic; it’s about designing experiences, solving real-world problems, and constantly evolving. Learning never stops, and that’s what keeps me moving forward.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dishan1223&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 Languages and Tools
+
+> ⚙️ These are the tools I use frequently, and I’m always exploring new ones that best fit my projects.
+
+<div>
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+</div>
+<br />
+
+#
+
+### 📊 Stats
+
+![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishan1223&show_icons=true&theme=gruvbox)
+
+#
+
+<details>
+    <summary>🧑‍💻 Dishan's Coding Journey</summary>
+    <br/>
+    My journey started like many others—with curiosity and a passion for learning. As a teenager, discovering coding felt like unlocking a world where I could build anything I imagined. Despite the challenges—errors, bugs, and moments of doubt—I kept pushing forward.
+    I often questioned if I belonged in this field, but my love for technology and the thrill of creating kept me going. Over time, persistence turned struggles into skills. Now, I can confidently say I belong here. Most importantly, I’ve learned how to learn—a skill that keeps me evolving every day.
+
+</details>
