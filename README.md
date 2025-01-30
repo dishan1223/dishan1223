@@ -14,7 +14,7 @@ For me, coding is more than writing logic; it’s about designing experiences, s
 
 > ⚙️ These are the tools I use frequently, and I’m always exploring new ones that best fit my projects.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,css,html,javascript,react,express,figma,jest,npm,sqlite,bootstrap&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,javascript,react,express,jest,npm,sqlite,jest,bootstrap&perline=11)](https://skillicons.dev)
 <br />
 
 #
