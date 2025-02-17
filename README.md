@@ -5,7 +5,8 @@
 I’m a full-stack web developer, building my version of the digital world step by step. My curiosity for computers led me to web development—a turning point that transformed ideas into reality.
 
 More about me: 
-- I am a full-stack web developer based in Sirajganj, Bangladesh
+- 🇧🇩 I'm a passionate developer from Sirajganj, Bangladesh, working with front and backend technologies.
+- 📩 **Contact me at:** [dishanishtiaq45@gmail.com](mailto:dishanishtiaq45@gmail.com)
 
 ---
 
@@ -21,6 +22,9 @@ More about me:
 ### 📊 Stats
 
 ![Dishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dishan1223&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishan1223&layout=compact&theme=gruvbox)
+
 
 #
 
