@@ -14,7 +14,7 @@ More about me:
 
 > ⚙️ These are the tools I use frequently, and I’m always exploring new ones that best fit my projects.
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,html,css,javascript,react,express,jest,npm,sqlite,bootstrap,scss,mongodb&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,git,html,css,javascript,react,express,jest,npm,sqlite,bootstrap,scss,mongodb&perline=11)](https://skillicons.dev)
 <br />
 
 #
