@@ -18,7 +18,7 @@ More about me:
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,git,jest,npm&perline=11)](https://skillicons.dev)
 <br>
 ## Languages, markup and frameworks 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,express,bootstrap,scss&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,nextjs,react,express,bootstrap,scss&perline=11)](https://skillicons.dev)
 <br />
 ## Database: 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite&perline=11)](https://skillicons.dev)
