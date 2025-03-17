@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I’m a full-stack web developer, building my version of the digital world step by step. My curiosity for computers led me to web development—a turning point that transformed ideas into reality.
+I’m a web developer, building my version of the digital world step by step. My curiosity for computers led me to web development—a turning point that transformed ideas into reality.
 
 More about me: 
 - 🇧🇩 I'm a **passionate developer** from **Sirajganj, Bangladesh**, working with **frontend** and **backend** technologies.
